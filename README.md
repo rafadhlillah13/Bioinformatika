@@ -45,3 +45,13 @@ Selamat datang di repositori proyek **Pemodelan dan Analisis Potensi Senyawa ter
 - **Random Forest** dan **Neural Network** untuk klasifikasi
 - Analisis **pentingnya fitur**
 - Interpretabilitas model menggunakan **LIME** (Local Interpretable Model-agnostic Explanations)
+
+## 👥 **Kontributor**
+Berikut adalah daftar kontributor yang terlibat dalam proyek ini:
+
+- **Rafi Fadhlillah - 121450143** – [rafadhlillah13](https://github.com/rafadhlillah13)
+- **GEDE MOENA - 121450014** – [Username](https://github.com/username)
+- **Muhammad Rendy Saputra - 121450045** – [Username](https://github.com/username)
+- **VANESSA OLIVIA ROSE - 121450108** – [Username](https://github.com/username)
+- **ANNISA NOVANTIKA - 121450005** – [Username](https://github.com/username)
+
