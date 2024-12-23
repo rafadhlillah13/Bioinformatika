@@ -2,7 +2,8 @@
 
 Selamat datang di repositori proyek **Pemodelan dan Analisis Potensi Senyawa terhadap HSP90**. Dalam proyek ini, kami fokus pada pengembangan model untuk memprediksi potensi senyawa kimia terhadap target biologis HSP90 (Heat Shock Protein 90), menggunakan berbagai teknik machine learning. Tujuan utama proyek ini adalah untuk membantu penelitian farmasi dan biologi molekuler dalam mengidentifikasi senyawa yang memiliki potensi tinggi terhadap HSP90.
 
-![Alt text]([path/to/image](https://github.com/rafadhlillah13/Bioinformatika/blob/main/Project%20HSP90.png))
+![image alt](https://github.com/rafadhlillah13/Bioinformatika/blob/main/Project%20HSP90.png?raw=true)
+
 
 
 ## 🔍 **Ringkasan Proyek**
