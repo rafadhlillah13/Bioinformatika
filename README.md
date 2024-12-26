@@ -50,8 +50,8 @@ Selamat datang di repositori proyek **Pemodelan dan Analisis Potensi Senyawa ter
 Berikut adalah daftar kontributor yang terlibat dalam proyek ini:
 
 - **Rafi Fadhlillah - 121450143** – [rafadhlillah13](https://github.com/rafadhlillah13)
-- **GEDE MOENA - 121450014** – [Username](https://github.com/GedeMoenaa)
-- **Muhammad Rendy Saputra - 121450045** – [Username](https://github.com/muhammadrendysa)
-- **VANESSA OLIVIA ROSE - 121450108** – [Username](https://github.com/roselivnes)
-- **ANNISA NOVANTIKA - 121450005** – [Username](https://github.com/annisanovantika)
+- **GEDE MOENA - 121450014** – [GedeMoenaa](https://github.com/GedeMoenaa)
+- **Muhammad Rendy Saputra - 121450045** – [muhammadrendysa](https://github.com/muhammadrendysa)
+- **VANESSA OLIVIA ROSE - 121450108** – [roselivnes](https://github.com/roselivnes)
+- **ANNISA NOVANTIKA - 121450005** – [annisanovantika](https://github.com/annisanovantika)
 
